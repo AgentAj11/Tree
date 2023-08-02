@@ -1,0 +1,5 @@
+TREE :-
+
+1. count number of leaf nodes in the given tree
+2. Find height of the tree
+3. Daimeter of the tree (longest distance between any two leaf nodes)
